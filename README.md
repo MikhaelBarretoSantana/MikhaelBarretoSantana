@@ -1,24 +1,26 @@
-### Sup! My name is Mikhael and it's a plesure to meet you👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=120&section=header"/>
 
-- 🔭 Recently im working on develop myself as a developer✨.
-- 🌱 I’m currently learning more about API aplications focused on web services and cloud computing.
-- 📫 You can reach me by sending me a mail: mikhaelbarretos@gmail.com.
-- 😄 Pronouns: he/him.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3A0CA3&size=35&center=true&vCenter=true&width=1000&lines=Sup,+MY+NAME+IS+Mikhael+Barreto;Working+To+be+the+BEST+:%29)](https://git.io/typing-svg)
+  
+  <div style="display: inline_block">
+    <ul style="text-align: center">
+      <li> 🔭 Recently im working on develop myself as a developer✨. </li>
+      <li> 🌱 I’m currently learning more about API aplications focused on web services and cloud computing. </li>
+      <li> 📫 You can reach me by sending me a mail: mikhaelbarretos@gmail.com. </li>
+      <li> 😄 Pronouns: he/him. </li>      
+    </ul>
+  </div>
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postgres,java,py,react,css,html,js,ts" />
+  </a>
+</p>
 </div>
-
-<h3> 📚 Github Stats: <br></h3>
   
-<div>
+<div align="center">
   <a href="[https://github.com/StarKhael](https://github.com/StarKhael)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=StarKhael&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarKhael&layout=compact&langs_count=16&theme=midnight-purple"/>
@@ -26,4 +28,7 @@
 
 <br>
 
-![snake gif](https://github.com/StarKhael/StarKhael/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StarKhael&bg_color=000000&color=3a0ca3&line=3a0ca3&point=f9e900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=120&section=footer"/>
