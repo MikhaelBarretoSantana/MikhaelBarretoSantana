@@ -26,4 +26,4 @@
 
 <br>
 
-![snake gif](https://github.com/StarKhael)
+![snake gif](https://github.com/StarKhael/StarKhael/blob/output/github-contribution-grid-snake.svg)
