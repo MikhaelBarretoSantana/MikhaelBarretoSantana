@@ -5,8 +5,10 @@
   <div style="display: inline_block">
     <ul style="text-align: center">
       <li> 🔭 Recently im working on develop myself as a developer✨. </li>
-      <li> 🌱 I’m currently learning more about API aplications focused on web services and cloud computing. </li>
-      <li> 📫 You can reach me by sending me a mail: mikhaelbarretos@gmail.com. </li>
+      <li> 🌱 I’m currently learning more about API aplications focused on web services. </li>
+      <li> 📫 Send me a mail 🙂: 
+        <a href = "mailto:mikhaelbarretos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                         target="_blank"></a>
+ </li>
       <li> 😄 Pronouns: he/him. </li>      
     </ul>
   </div>
