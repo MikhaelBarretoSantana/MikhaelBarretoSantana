@@ -7,7 +7,7 @@
       <li> 🔭 Recently im working on develop myself as a developer✨. </li>
       <li> 🌱 I’m currently learning more about API aplications focused on web services. </li>
       <li> 📫 Send me a mail 🙂: 
-        <a href = "mailto:mikhaelbarretos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                         target="_blank"></a>
+      <a href = "mailto:mikhaelbarretos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
  </li>
       <li> 😄 Pronouns: he/him. </li>      
     </ul>
