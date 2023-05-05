@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0EAD69&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3A0CA3&size=35&center=true&vCenter=true&width=1000&lines=Sup,+MY+NAME+IS+Mikhael+Barreto;Working+To+be+the+BEST+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0EAD69&size=35&center=true&vCenter=true&width=1000&lines=Sup,+MY+NAME+IS+Mikhael+Barreto;Working+To+be+the+BEST+:%29)](https://git.io/typing-svg)
   
   <div style="display: inline_block">
     <ul style="text-align: center">
@@ -28,7 +28,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StarKhael&bg_color=000000&color=3a0ca3&line=3a0ca3&point=f9e900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StarKhael&bg_color=00171F&color=0EAD69&line=0EAD69&point=f9e900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0EAD69&height=120&section=footer"/>
