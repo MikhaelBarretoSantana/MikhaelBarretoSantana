@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,java,py,react,css,html,js,ts" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,java,spring,py,react,css,html,js,ts" />
   </a>
 </p>
 </div>
@@ -29,8 +29,6 @@
 </div>
 
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MikhaelBarretoSantana&bg_color=00171F&color=0EAD69&line=0EAD69&point=f9e900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0EAD69&height=120&section=footer"/>
