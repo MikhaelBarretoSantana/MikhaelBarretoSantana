@@ -13,15 +13,19 @@
     </ul>
   </div>
 
+## 🚀 My Skills
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postgres,java,spring,py,react,css,scss,html,js,ts" />
   </a>
 </p>
 </div>
-  
+
+## ⭐ GitHub Stats
+
 <div align="center">
   <a href="[https://github.com/MikhaelBarretoSantana](https://github.com/MikhaelBarretoSantana)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MikhaelBarretoSantana&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
