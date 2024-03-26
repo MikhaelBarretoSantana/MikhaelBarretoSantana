@@ -5,7 +5,7 @@
   <div style="display: inline_block">
     <ul style="text-align: center">
       <li> 🔭 Recently im working on develop myself as a developer✨. </li>
-      <li> 🌱 I’m currently learning more about clean code and some good practices. </li>
+      <li> 🌱 I’m currently learning more about UX design with google. </li>
       <li> 📫 Send me a mail 🙂: 
       <a href = "mailto:mikhaelbarretos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
  </li>
