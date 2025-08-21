@@ -20,6 +20,9 @@
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postgres,java,spring,py,cs,dotnet,vue,react,css,scss,html,js,ts" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart," />
+    
   </a>
 </p>
 </div>
