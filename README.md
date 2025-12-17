@@ -28,7 +28,7 @@ Analista de Sistemas e Desenvolvedor Full Stack apaixonado por criar soluções 
 ```javascript
 const mikhael = {
   location: "Aracaju, Sergipe, Brasil",
-  education: "Ciência da Computação - UNIT (8º período)",
+  education: "Ciência da Computação - UNIT (9º período)",
   role: "Systems Analyst & Full Stack Developer",
   interests: ["Health Tech", "Clean Code", "System Architecture", "Innovation"],
   currentFocus: "Building scalable healthcare solutions"
